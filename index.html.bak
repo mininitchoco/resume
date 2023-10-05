@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+
+      rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+
+      crossorigin="anonymous">
+    <link type="text/css" rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Courgette&amp;family=Gloria+Hallelujah&amp;family=Kalam&amp;family=Mitr&amp;family=Prata&amp;family=Quicksand&amp;display=swap"
+
+      rel="stylesheet">
+  </head>
+  <body class="bg-body-tertiary">
+    <div class="container-fluid">
+      <div class="row">
+        <nav class="navbar navbar-dark bg-dark fixed-top">
+          <div class="container-fluid"> <a class="navbar-brand" href="#"></a> <button
+
+              class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasDarkNavbar"
+
+              aria-controls="offcanvasDarkNavbar" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span> </button>
+            <div class="offcanvas offcanvas-end text-bg-dark" tabindex="-1" id="offcanvasDarkNavbar"
+
+              aria-labelledby="offcanvasDarkNavbarLabel">
+              <div class="offcanvas-header">
+                <h5 class="offcanvas-title" id="offcanvasDarkNavbarLabel">Chanikan
+                  Wanichsakulpong</h5>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas"
+
+                  aria-label="Close"></button> </div>
+              <div class="offcanvas-body">
+                <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
+                  <li class="nav-item"> <a class="nav-link active" aria-current="page"
+
+                      href="index.html">Home</a> </li>
+                  <li class="nav-item"> <a class="nav-link" href="#profile" target="_top">Profile</a>
+                  </li>
+                  <li class="nav-item"> <a class="nav-link" href="#contact" target="_top">Contact</a>
+                  </li>
+                  <li class="nav-item"> <a class="nav-link" href="#edu" target="_top">Education</a>
+                  </li>
+                  <li class="nav-item"> <a class="nav-link" href="#skills" target="_top">Skills</a>
+                  </li>
+                  <li class="nav-item"> <a class="nav-link" href="#languages" target="_top">Languages</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </nav>
+      </div>
+      <br>
+      <br>
+      <br>
+      <div class="row mt-5 mx-2">
+        <div class="col-md-6 col-lg-6 mx-auto text-center"> <img src="images/image0.png"
+
+            class="img-fluid rounded" alt="profile picture" height="400" width="400"></div>
+        <div class="col-md-6 col-lg-6">
+          <h1>Chanikan Wanichsakulpong </h1>
+          <h3>ชนิกานต์ วาณิชย์สกุลพงศ์ </h3>
+          <br>
+          <hr>
+          <h2> Web Designer </h2>
+          <br>
+          <h4> I am an extremely creative, a productive team player, fluent in
+            Thai and English, energetic and responsible, able to operate PC in
+            MS Office and E-mail. </h4>
+          <br>
+          <br>
+          <h4>Having pleasant personality, good analytical skills, good decision
+            making, good relationship, positive attitude and open mind,
+            continual improvement. </h4>
+        </div>
+      </div>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <div class="row mx-2">
+        <div class="col-md-6 col-lg-6 mx-auto text-center">
+          <h3><a name="profile" id="profile"></a>Profile</h3>
+          <hr> </div>
+        <div class="col-md-6 col-lg-6 mx-auto text-center">
+          <h3><a name="edu" id="edu"></a>Education </h3>
+          <hr> </div>
+      </div>
+      <div class="row mx-4">
+        <div class="col-md-6 col-lg-6">
+          <h4>Name : Chanikan Wanichsakulpong </h4>
+        </div>
+        <div class="col-md-6 col-lg-6">
+          <h4>Kasetsart University Laboratory School, Kamphaeng Saen Campus,
+            Educational Research and Development Center (Sci-Math) GPAX 3.21</h4>
+        </div>
+      </div>
+      <br>
+      <div class="row mx-4">
+        <div class="col-md-6 col-lg-6">
+          <h4> Nickname : Nini </h4>
+        </div>
+        <div class="col-md-6 col-lg-6">
+          <h4> </h4>
+        </div>
+      </div>
+      <br>
+      <br>
+      <br>
+      <div class="row mx-4">
+        <div class="col-md-6 col-lg-6">
+          <h4> Date of Birth : 15 November 2002 </h4>
+        </div>
+        <div class="col-md-6 col-lg-6">
+          <h4>Faculty of Arts, Silpakorn University (Information and Library
+            Major, English Minor) GPAX 3.42 </h4>
+        </div>
+      </div>
+      <br>
+      <br>
+      <div class="row mx-4">
+        <div class="col-md-6 col-lg-6">
+          <h4> Age : 21 </h4>
+        </div>
+        <div class="col-md-6 col-lg-6">
+          <h4> <br>
+          </h4>
+        </div>
+      </div>
+      <br>
+      <br>
+      <br>
+      <div class="row mx-2">
+        <div class="col-md-6 col-lg-6 mx-auto text-center ">
+          <h3><a name="skills" id="skills"></a>Skills</h3>
+          <hr> </div>
+        <div class="col-md-6 col-lg-6 mx-auto text-center">
+          <h3><a name="languages" id="languages"></a>Languages</h3>
+          <hr> </div>
+      </div>
+      <br>
+      <br>
+      <div class="row mx-2">
+        <div class="col-md-2  col-lg-2 mx-auto text-center"><img src="images/90.png"
+
+            alt="canva" height="130" width="130"></div>
+        <div class="col-md-2 col-lg-2 mx-auto text-center"><img src="images/80.png"
+
+            alt="ms office" height="130" width="130"></div>
+        <div class="col-md-2 mx-auto text-center"><img src="images/80.png" alt="capcut"
+
+            height="130" width="130"></div>
+        <div class="col-md-1 col-lg-1"> <br>
+        </div>
+        <div class="col-md-3 col-lg-3 mx-auto text-center">
+          <div class="progress" role="progressbar" aria-label="Warning striped example"
+
+            aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+            <div class="progress-bar progress-bar-striped bg-danger" style="width: 100%"></div>
+          </div>
+        </div>
+        <div class="col-md-2 col-lg-2 mx-auto text-center">
+          <h5>Thai </h5>
+        </div>
+      </div>
+      <div class="row mx-3">
+        <div class="col-md-2  col-lg-2 mx-auto text-center">
+          <h5>Canva</h5>
+        </div>
+        <div class="col-md-2 col-lg-2 mx-auto text-center">
+          <h5>MS Office</h5>
+        </div>
+        <div class="col-md-2 col-lg-2 mx-auto text-center">
+          <h5>Capcut</h5>
+        </div>
+        <div class="col-md-1 col-lg-1 "> <br>
+        </div>
+        <div class="col-md-3 col-lg-3 mx-auto text-center">
+          <div class="progress" role="progressbar" aria-label="Warning striped example"
+
+            aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
+            <div class="progress-bar progress-bar-striped bg-warning" style="width: 75%"></div>
+          </div>
+        </div>
+        <div class="col-md-2 col-lg-2 mx-auto text-center">
+          <h5>English</h5>
+        </div>
+      </div>
+      <div class="row mx-2">
+        <div class="col-md-2 col-lg-2 mx-auto text-center"><img src="images/70.png"
+
+            alt="photoshop" height="130" width="130"></div>
+        <div class="col-md-2 col-lg-2 mx-auto text-center"><img src="images/60.png"
+
+            alt="inkscape" height="130" width="130"></div>
+        <div class="col-md-2 col-lg-2 mx-auto text-center"><img src="images/40.png"
+
+            alt="bluegriffon" height="130" width="130"></div>
+        <div class="col-md-4 col-lg-4 mx-auto text-center"><br>
+        </div>
+        <div class="col-md-2 col-lg-2 mx-auto text-center"><br>
+        </div>
+      </div>
+      <div class="row mx-3">
+        <div class="col-md-2 col-lg-2 mx-auto text-center">
+          <h5>Photoshop </h5>
+        </div>
+        <div class="col-md-2 col-lg-2 mx-auto text-center">
+          <h5>Inkscape </h5>
+        </div>
+        <div class="col-md-2 col-lg-2 mx-auto text-center">
+          <h5>Bluegriffon </h5>
+        </div>
+        <div class="col-md-1 col-lg-1"> <br>
+        </div>
+        <div class="col-md-3 col-lg-3 mx-auto text-center">
+          <div class="progress mx-auto text-center" role="progressbar" aria-label="Success striped example"
+
+            aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
+            <div class="progress-bar progress-bar-striped bg-success" style="width: 25%"></div>
+          </div>
+        </div>
+        <div class="col-md-2 col-lg-2 mx-auto text-center">
+          <h5>Korean </h5>
+        </div>
+      </div>
+      <br>
+      <hr> <br>
+      <div class="row">
+        <div class="col-md-12 col-lg-12mx-auto text-center">
+          <h3> <a name="contact" id="contact"></a>Contact </h3>
+          <div class="mx-auto text-center"><img src="images/IMG_9677.png" class="img-fluid rounded-circle"
+
+              alt="my pic" height="80" width="100"></div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12 col-lg-12 mx-auto text-center">
+          <h6>Chanikan Wanichsakulpong </h6>
+        </div>
+      </div>
+      <br>
+      <div class="row">
+        <div class="col-md-3 col-lg-3 mx-auto text-center"> <img src="images/email.png"
+
+            alt="email" height="50" width="50"> </div>
+        <div class="col-md-3 col-lg-3 mx-auto text-center"> <img src="images/instagram.png"
+
+            alt="ig" height="50" width="50"> </div>
+        <div class="col-md-3 col-lg-3 mx-auto text-center"> <img src="images/line.png"
+
+            alt="line" height="50" width="50"> </div>
+        <div class="col-md-3 col-lg-3 mx-auto text-center"> <img src="images/phone.png"
+
+            alt="phone" height="50" width="50"> </div>
+      </div>
+      <div class="row">
+        <div class="col-md-3 col-lg-3 mx-auto text-center">
+          <h6>Email</h6>
+        </div>
+        <div class="col-md-3 col-lg-3 mx-auto text-center">
+          <h6>Instagram</h6>
+        </div>
+        <div class="col-md-3 col-lg-3 mx-auto text-center">
+          <h6>Line</h6>
+        </div>
+        <div class="col-md-3 col-lg-3 mx-auto text-center">
+          <h6>Phone Number</h6>
+        </div>
+      </div>
+      <div class="row mb-3">
+        <div class="col-md-3 col-lg-3 mx-auto text-center">
+          <p><a href="mailto:creamthontawee@gmail.com" target="_blank">chanikan.ni2015@gmail.com</a></p>
+        </div>
+        <div class="col-md-3 col-lg-3 mx-auto text-center">
+          <p><a href="https://www.instagram.com/chaninizz_/" target="_blank">chaninizz_</a></p>
+        </div>
+        <div class="col-md-3 col-lg-3 mx-auto text-center">
+          <p><a href="https://line.me/ti/p/2h0xaJ3Qwf" target="_blank">chanikan2002</a></p>
+        </div>
+        <div class="col-md-3 col-lg-3 mx-auto text-center">
+          <p> 093-1293758</p>
+        </div>
+      </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+
+integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+
+crossorigin="anonymous"></script>
+  </body>
+</html>

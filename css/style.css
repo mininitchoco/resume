@@ -1,0 +1,30 @@
+h1{
+  color: green ; 
+}
+h3{
+  color: blue ; 
+}
+
+h1{
+font-family: 'Courgette', cursive;  
+}
+
+h3{
+font-family: 'Mitr', sans-serif;
+}
+
+h4{
+font-family: 'Quicksand', sans-serif; 
+}
+
+h5{
+  font-family: 'Kalam', cursive;  
+}
+
+h6{
+    font-family: 'Gloria Hallelujah', cursive; 
+}
+
+p{
+  font-family: 'Prata', serif; 
+}
