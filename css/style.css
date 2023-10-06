@@ -5,6 +5,10 @@ h3{
   color: blue ; 
 }
 
+h6{ 
+  color: brown ; 
+}
+
 h1{
 font-family: 'Courgette', cursive;  
 }
@@ -27,4 +31,12 @@ h6{
 
 p{
   font-family: 'Prata', serif; 
+}
+
+.my-border{ 
+border-radius: 25px;
+  border: 2px solid #07B9CB ;
+  padding: 20px;
+  width: 380px;
+  height: 480px;
 }
